@@ -1,3 +1,9 @@
+[
+
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
+](https://colab.research.google.com/github/officaldhanush/electronics-tutor-/blob/main/electronics-tutor.ipynb)
+
 # Electronics Tutor: AI explains, Python checks
 
 A phone-friendly tutor for first-year electronics students, built in Google Colab with Python and Gradio.
