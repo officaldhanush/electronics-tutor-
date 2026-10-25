@@ -31,7 +31,3 @@ Python, Gradio, the NVIDIA Build API with a Nemotron model, and the OpenAI Pytho
 
 ## What I learned
 Prompts are part of the program. Use code where answers are exact, and AI where they are not.
-
-## Demo video
-
-https://github.com/user-attachments/assets/PASTE-THE-LINK-GITHUB-GAVE-YOU
