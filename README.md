@@ -1,8 +1,4 @@
-[
-
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-
-](https://colab.research.google.com/github/officaldhanush/electronics-tutor-/blob/main/electronics-tutor.ipynb)
+<a href="https://colab.research.google.com/github/officaldhanush/electronics-tutor-/blob/main/electronics-tutor.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 # Electronics Tutor: AI explains, Python checks
 
