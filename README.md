@@ -33,4 +33,5 @@ Python, Gradio, the NVIDIA Build API with a Nemotron model, and the OpenAI Pytho
 Prompts are part of the program. Use code where answers are exact, and AI where they are not.
 
 ## Demo video
-[▶ Watch the demo video](https://github.com/officaldhanush/electronics-tutor-/blob/main/screen-20261025-191239.mp4)
+
+https://github.com/user-attachments/assets/PASTE-THE-LINK-GITHUB-GAVE-YOU
