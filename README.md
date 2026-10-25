@@ -28,6 +28,10 @@ Python, Gradio, the NVIDIA Build API with a Nemotron model, and the OpenAI Pytho
 ## What I learned
 Prompts are part of the program. Use code where answers are exact, and AI where they are not.
 
+## NVIDIA and Nebius usage
+- **NVIDIA Nemotron:** the tutor uses nvidia/nemotron-3.5-lightning-30b-a3b, and the reviewer uses nvidia/nemotron-3-ultra-550b-a55b, both through the NVIDIA Build API.
+- **Nebius Token Factory:** not used in this version. Token Factory needs a payment card to finish setup, which I couldn't provide. The code is ready to switch by changing three settings: the web address, the key, and the model names.
+
 ## Demo video
 
 [
